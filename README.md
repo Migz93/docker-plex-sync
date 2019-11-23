@@ -1,6 +1,6 @@
 # Docker Containers
 
-[![Docker Version](https://images.microbadger.com/badges/version/miguel1993/plex-sync.svg)](https://microbadger.com/images/miguel1993/plex-sync) [![Docker Image](https://images.microbadger.com/badges/image/miguel1993/plex-sync.svg)](https://microbadger.com/images/miguel1993/plex-sync) [![Docker Pulls](https://img.shields.io/docker/pulls/miguel1993/plex-sync.svg)](https://microbadger.com/images/miguel1993/plex-sync) [![Docker Stars](https://img.shields.io/docker/stars/miguel1993/plex-sync.svg)](https://microbadger.com/images/miguel1993/plex-sync) [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Docker Version](https://images.microbadger.com/badges/version/miguel1993/docker-plex-sync.svg)](https://microbadger.com/images/miguel1993/docker-plex-sync) [![Docker Image](https://images.microbadger.com/badges/image/miguel1993/docker-plex-sync.svg)](https://microbadger.com/images/miguel1993/docker-plex-sync) [![Docker Pulls](https://img.shields.io/docker/pulls/miguel1993/docker-plex-sync.svg)](https://microbadger.com/images/miguel1993/docker-plex-sync) [![Docker Stars](https://img.shields.io/docker/stars/miguel1993/docker-plex-sync.svg)](https://microbadger.com/images/miguel1993/docker-plex-sync) [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 [`plex-sync`](https://github.com/jacobwgillespie/plex-sync) running in a container as a cron job.
 
