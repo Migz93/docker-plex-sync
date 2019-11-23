@@ -1,6 +1,6 @@
 FROM node
 
-MAINTAINER Pat Sissons patricksissons@gmail.com
+MAINTAINER Miguel1993/Migz93
 
 ENV PLEX_TOKEN=''
 ENV DRY_RUN=''
