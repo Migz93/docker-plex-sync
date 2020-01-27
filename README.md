@@ -4,7 +4,7 @@
 
 [`plex-sync`](https://github.com/jacobwgillespie/plex-sync) running in a container as a cron job.
 
-Fork from [`https://github.com/patsissons/docker-plex-sync`](https://github.com/patsissons/docker-plex-sync) but with the node memory limit increased to 4GB for syncing larger libraries.
+Fork from [`https://github.com/patsissons/docker-plex-sync`](https://github.com/patsissons/docker-plex-sync) but with the node memory limit increased to 8GB for syncing larger libraries.
 
 ## Usage
 
